@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Valjean's portfolio",
+    "packageVersion": "1.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "vbud",
+    "githubRepository": "https://github.com/vbud/valjean-portfolio"
+  }
+}
