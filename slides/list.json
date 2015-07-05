@@ -1,1 +1,44 @@
-["index.md"]
+[
+    "index.md",
+    [
+        "gripen/01_gripen.md",
+        {
+            "attr": {
+                "data-background": "slides/gripen/02_top-view-1.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/03_top-view-2.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/04_look-forward.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/05_look-back.png"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/06_icon-number-orientation.png",
+                "data-background-size": "1024px"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/07_3d-symbols.png",
+                "data-background-size": "1024px"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/08_3d-facing-away.png",
+                "data-background-size": "1024px"
+            }
+        }
+    ]
+]
