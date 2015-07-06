@@ -1,93 +1,96 @@
 [
     "01_intro.md",
     [
-        "gripen/01_gripen.md",
+        "02_gripen/01_gripen.md",
         {
             "attr": {
-                "data-background": "slides/gripen/02_top-view-1.png"
+                "data-background": "slides/02_gripen/02_top-view-1.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/03_top-view-2.png"
+                "data-background": "slides/02_gripen/03_top-view-2.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/04_look-forward.png"
+                "data-background": "slides/02_gripen/04_look-forward.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/05_look-back.png"
+                "data-background": "slides/02_gripen/05_look-back.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/06_icon-number-orientation.png",
+                "data-background": "slides/02_gripen/06_icon-number-orientation.png",
                 "data-background-size": "1024px"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/07_3d-symbols.png",
+                "data-background": "slides/02_gripen/07_3d-symbols.png",
                 "data-background-size": "1024px"
             }
         },
         {
             "attr": {
-                "data-background": "slides/gripen/08_3d-facing-away.png",
+                "data-background": "slides/02_gripen/08_3d-facing-away.png",
                 "data-background-size": "1024px"
             }
         }
     ],
     {
         "attr": {
-            "data-background": "slides/02_github-intel.png"
+            "data-background": "slides/03_github-intel.png"
         }
     },
     [
-        "reusable/01_reusable.md",
+        "04_reusable/01_reusable.md",
         {
             "attr": {
-                "data-background": "slides/reusable/02_reuse-1.png"
+                "data-background": "slides/04_reusable/02_reuse-1.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/03_reuse-2.png"
+                "data-background": "slides/04_reusable/03_reuse-2.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/04_reuse-3.png"
+                "data-background": "slides/04_reusable/04_reuse-3.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/05_mlaf-home.png"
+                "data-background": "slides/04_reusable/05_mlaf-home.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/06_mlaf-getting-started.png"
+                "data-background": "slides/04_reusable/06_mlaf-getting-started.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/07_mlaf-icon-library.png"
+                "data-background": "slides/04_reusable/07_mlaf-icon-library.png"
             }
         },
-        "reusable/08_starter-repos.md",
+        "04_reusable/08_starter-repos.md",
         {
             "attr": {
-                "data-background": "slides/reusable/09_intc-worker-picker.png"
+                "data-background": "slides/04_reusable/09_intc-worker-picker.png"
             }
         },
         {
             "attr": {
-                "data-background": "slides/reusable/10_starter-bower-component.png"
+                "data-background": "slides/04_reusable/10_starter-bower-component.png"
             }
         }
+    ],
+    [
+        "05_mwc/01_mwc.md"
     ]
 ]
