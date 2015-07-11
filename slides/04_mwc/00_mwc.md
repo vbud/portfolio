@@ -2,6 +2,6 @@
 
 We built a demo application demonstrating Intel's Anchorbooster technology. We made a web app with flying bubbles.
 
-<video width="1280" height="720" controls>
-    <source src="slides/05_mwc/02_mwc-demo.mp4" type="video/mp4">
+<video src="slides/04_mwc/mwc-demo.mp4" width="1280" height="600">
+    Your browser does not support the <code>video</code> element.
 </video>
