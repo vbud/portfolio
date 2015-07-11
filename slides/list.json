@@ -4,93 +4,137 @@
         "01_gripen/00_gripen.md",
         {
             "attr": {
-                "data-background": "slides/01_gripen/01_top-view-1.png"
+                "data-background": "slides/01_gripen/01_top-view-1.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/01_gripen/02_top-view-2.png"
+                "data-background": "slides/01_gripen/02_top-view-2.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/01_gripen/03_look-forward.png"
+                "data-background": "slides/01_gripen/03_look-forward.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/01_gripen/04_look-back.png"
+                "data-background": "slides/01_gripen/04_look-back.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
                 "data-background": "slides/01_gripen/05_icon-number-orientation.png",
-                "data-background-size": "1024px"
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
                 "data-background": "slides/01_gripen/06_3d-symbols.png",
-                "data-background-size": "1024px"
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
                 "data-background": "slides/01_gripen/07_3d-facing-away.png",
-                "data-background-size": "1024px"
+                "data-background-size": "auto 100%"
             }
         }
     ],
     {
         "attr": {
-            "data-background": "slides/02_github-intel.png"
+            "data-background": "slides/02_github-intel.png",
+            "data-background-size": "auto 100%"
         }
     },
     [
         "03_reusable/00_reusable.md",
+        "03_reusable/01_reuse.md",
         {
             "attr": {
-                "data-background": "slides/03_reusable/01_reuse-1.png"
+                "data-background": "slides/03_reusable/02_reuse-2.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/02_reuse-2.png"
+                "data-background": "slides/03_reusable/03_reuse-3.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/03_reuse-3.png"
+                "data-background": "slides/03_reusable/04_mlaf-home.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/04_mlaf-home.png"
+                "data-background": "slides/03_reusable/05_mlaf-getting-started.png",
+                "data-background-size": "auto 100%"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/05_mlaf-getting-started.png"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/03_reusable/06_mlaf-icon-library.png"
+                "data-background": "slides/03_reusable/06_mlaf-icon-library.png",
+                "data-background-size": "auto 100%"
             }
         },
         "03_reusable/07_starter-repos.md",
+        "03_reusable/08_starter-bower-component.md",
         {
             "attr": {
-                "data-background": "slides/03_reusable/08_intc-worker-picker.png"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/03_reusable/09_starter-bower-component.png"
+                "data-background": "slides/03_reusable/09_intc-worker-picker.png",
+                "data-background-size": "auto 100%"
             }
         }
     ],
     [
         "04_mwc/00_mwc.md"
+    ],
+    [
+        "05_people/00_people.md",
+        {
+            "attr": {
+                "data-background": "slides/05_people/01_people-home.png",
+                "data-background-size": "auto 100%"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/05_people/02_people-profile-hierarchy-expanded.png",
+                "data-background-size": "auto 100%"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/05_people/03_people-expertise-data.png",
+                "data-background-size": "auto 100%"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/05_people/04_people-converter.png",
+                "data-background-size": "auto 100%"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/05_people/05_people-report-builder.png",
+                "data-background-size": "auto 100%"
+            }
+        }
+    ],
+    [
+        "06_iterpmt/00_iterpmt.md",
+        "06_iterpmt/01_bhag.md",
+        "06_iterpmt/02_switch-between-events.md",
+        "06_iterpmt/03_change-phase.md",
+        "06_iterpmt/04_all-events.md",
+        "06_iterpmt/05_analyze-impact.md"
     ]
 ]
