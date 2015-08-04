@@ -1,186 +1,186 @@
 [
-    "00_intro.md",
-    [
-        "01_gripen/00_gripen.md",
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/01_top-view-1.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/02_top-view-2.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/03_look-forward.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/04_look-back.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/05_icon-number-orientation.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/06_3d-symbols.png",
-                "data-background-size": "contain"
-            }
-        },
-        {
-            "attr": {
-                "data-background": "slides/01_gripen/07_3d-facing-away.png",
-                "data-background-size": "contain"
-            }
-        }
-    ],
+    "intro.md",
     {
         "attr": {
-            "data-background": "slides/02_github-intel.png",
+            "data-background": "slides/github-intel.png",
             "data-background-size": "contain"
         }
     },
     [
-        "03_reusable/00_reusable.md",
-        "03_reusable/01_reuse.md",
+        "reusable/00_reusable.md",
+        "reusable/01_reuse.md",
         {
             "attr": {
-                "data-background": "slides/03_reusable/02_reuse-2.png",
+                "data-background": "slides/reusable/02_reuse-2.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/03_reuse-3.png",
+                "data-background": "slides/reusable/03_reuse-3.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/04_mlaf-home.png",
+                "data-background": "slides/reusable/04_mlaf-home.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/05_mlaf-getting-started.png",
+                "data-background": "slides/reusable/05_mlaf-getting-started.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/03_reusable/06_mlaf-icon-library.png",
+                "data-background": "slides/reusable/06_mlaf-icon-library.png",
                 "data-background-size": "contain"
             }
         },
-        "03_reusable/07_starter-repos.md",
-        "03_reusable/08_starter-bower-component.md",
+        "reusable/07_starter-repos.md",
+        "reusable/08_starter-bower-component.md",
         {
             "attr": {
-                "data-background": "slides/03_reusable/09_intc-worker-picker.png",
+                "data-background": "slides/reusable/09_intc-worker-picker.png",
                 "data-background-size": "contain"
             }
         }
     ],
     [
-        "04_mwc/00_mwc.md"
+        "mwc/00_mwc.md"
     ],
     [
-        "05_people/00_people.md",
+        "people/00_people.md",
         {
             "attr": {
-                "data-background": "slides/05_people/01_people-home.png",
+                "data-background": "slides/people/01_people-home.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/05_people/02_people-profile-hierarchy-expanded.png",
+                "data-background": "slides/people/02_people-profile-hierarchy-expanded.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/05_people/03_people-expertise-data.png",
+                "data-background": "slides/people/03_people-expertise-data.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/05_people/04_people-converter.png",
+                "data-background": "slides/people/04_people-converter.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/05_people/05_people-report-builder.png",
+                "data-background": "slides/people/05_people-report-builder.png",
                 "data-background-size": "contain"
             }
         }
     ],
     [
-        "06_iterpmt/00_iterpmt.md",
-        "06_iterpmt/01_bhag.md",
-        "06_iterpmt/02_switch-between-events.md",
-        "06_iterpmt/03_change-phase.md",
-        "06_iterpmt/04_all-events.md",
-        "06_iterpmt/05_analyze-impact.md"
+        "iterpmt/00_iterpmt.md",
+        "iterpmt/01_bhag.md",
+        "iterpmt/02_switch-between-events.md",
+        "iterpmt/03_change-phase.md",
+        "iterpmt/04_all-events.md",
+        "iterpmt/05_analyze-impact.md"
     ],
     [
-        "07_appusage/00_appusage.md",
+        "appusage/00_appusage.md",
         {
             "attr": {
-                "data-background": "slides/07_appusage/01_homepage.png",
+                "data-background": "slides/appusage/01_homepage.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/07_appusage/02_dashboard.png",
+                "data-background": "slides/appusage/02_dashboard.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/07_appusage/03_app-details.png",
+                "data-background": "slides/appusage/03_app-details.png",
                 "data-background-size": "contain"
             }
         }
     ],
     [
-        "08_graphite/00_graphite.md",
+        "graphite/00_graphite.md",
         {
             "attr": {
-                "data-background": "slides/08_graphite/01_radial-v1.png",
+                "data-background": "slides/graphite/01_radial-v1.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/08_graphite/02_radial-v2-1.png",
+                "data-background": "slides/graphite/02_radial-v2-1.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/08_graphite/03_radial-v2-2.png",
+                "data-background": "slides/graphite/03_radial-v2-2.png",
                 "data-background-size": "contain"
             }
         },
         {
             "attr": {
-                "data-background": "slides/08_graphite/04_walker-v1.png",
+                "data-background": "slides/graphite/04_walker-v1.png",
+                "data-background-size": "contain"
+            }
+        }
+    ],
+    [
+        "gripen/00_gripen.md",
+        {
+            "attr": {
+                "data-background": "slides/gripen/01_top-view-1.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/02_top-view-2.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/03_look-forward.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/04_look-back.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/05_icon-number-orientation.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/06_3d-symbols.png",
+                "data-background-size": "contain"
+            }
+        },
+        {
+            "attr": {
+                "data-background": "slides/gripen/07_3d-facing-away.png",
                 "data-background-size": "contain"
             }
         }
